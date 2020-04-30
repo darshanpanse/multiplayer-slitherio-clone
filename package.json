@@ -1,0 +1,23 @@
+{
+  "name": "multiplayer-slitherio-clone",
+  "version": "1.0.0",
+  "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/darshanpanse/multiplayer-slitherio-clone)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanpanse/multiplayer-slitherio-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshanpanse/multiplayer-slitherio-clone/issues"
+  },
+  "homepage": "https://github.com/darshanpanse/multiplayer-slitherio-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
